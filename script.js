@@ -62,7 +62,7 @@ const channels = [
     },
     {
         name: "Supreme TV",
-        logo: "https://tv.deshikajayantha.com/images/supmetv.png",
+        logo: "https://tvsupreme.lk/wp-content/uploads/2025/04/site_id_white2.png",
         url: "https://moblive.yuppcdn.net/transsd/smil:tnl12.smil/chunklist_b596000.m3u8",
         category: "Local"
     },
@@ -792,4 +792,5 @@ window.addEventListener('offline', () => {
     if (isPlayerActive) {
         showBufferingIndicator();
     }
+
 });
